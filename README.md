@@ -12,7 +12,7 @@ There are more repair shops in the zip code 94103 (10 shops) than everywhere els
 ![alt text]()
 The majority of repair shops are almost new and started 4 years ago.
 
-<img src="https://github.com/abrusebas1997/FasTrackFix-dataset-SF/blob/main/Screen%20Shot%202021-10-15%20at%201.10.09%20AM.png" width="300" height="300"/>
+<img src="https://github.com/abrusebas1997/FasTrackFix-dataset-SF/blob/main/Screen%20Shot%202021-10-15%20at%202.07.52%20AM.png" width="300" height="300"/>
 ![alt text]()
 The most popular type of repair shop in San Francisco is the ones that repair Electronics (16 shops). The second is  repair shops for Accesories (14 shops). And the least popular repair shops in SF are the ones that repair Scooters (1 shops) and Furniture (1 shops)
 
